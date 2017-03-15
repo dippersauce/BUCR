@@ -1,5 +1,4 @@
 require 'socket'
-require 'time'
 
 arguments = ARGV
 BUFFER_SIZE = 1024

@@ -14,4 +14,4 @@ else if (inv.type == MSG_THINBLOCK)
 ```
 Excerpt of https://github.com/BitcoinUnlimited/BitcoinUnlimited/blob/release/src/thinblock.h
 
-As of 14/03/17, an update to patch the vulnerability has been pushed to the network and the nodes are slowly updating to the new code.
+As of 17:00 on /14/03/17, an update to patch the vulnerability has been pushed to the network and the nodes are slowly updating to the new code.

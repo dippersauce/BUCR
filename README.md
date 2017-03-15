@@ -1,7 +1,7 @@
 # BUCR
 Remotely crash Bitcoin Unlimited XTHIN nodes by sending an invalid GET_XTHIN request.
 
-The vulnerable code in question is present in thinblock.cpp:
+The vulnerable code in question is present in the thinblock.cpp file of https://github.com/BitcoinUnlimited/BitcoinUnlimited:
 
 ```C++
 else if (inv.type == MSG_THINBLOCK)

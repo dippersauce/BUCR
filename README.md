@@ -1,4 +1,4 @@
-# BUCR
+# BUCR (Bitcoin Unlimited Crasher - Ruby)
 Ruby script to remotely crash Bitcoin Unlimited XTHIN nodes by sending an invalid GET_XTHIN request.
 
 The vulnerable code in question is:

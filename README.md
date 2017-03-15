@@ -8,8 +8,9 @@ else if (inv.type == MSG_THINBLOCK)
 {
     //irrelevant
 } else {
-    assert(0); //instead of banning us for using an invald GET_XTHIN, the node trusts our request.
-}
+    assert(0); //instead of banning us for using an invald GET_XTHIN, the node trusts our request. 
+    
+    Trusting the newtwork to always provide perfect, properly formed data is a Bad Thing™
 ```
 Excerpt of https://github.com/BitcoinUnlimited/BitcoinUnlimited/blob/release/src/thinblock.h
 

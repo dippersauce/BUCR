@@ -10,7 +10,7 @@ else if (inv.type == MSG_THINBLOCK)
 } else {
     assert(0); //instead of banning us for using an invald GET_XTHIN, the node trusts our request. 
     
-    Blindy trusting newtwork data is a Bad Thing™
+    Blindy trusting newtwork data is a Bad Thing™.
 ```
 Excerpt of https://github.com/BitcoinUnlimited/BitcoinUnlimited/blob/release/src/thinblock.h
 
